@@ -1,0 +1,6 @@
+colorama==0.4.6
+playsound @ git+https://github.com/taconi/playsound@92385c78ec05c2fc3afad1afc5ed
+c9d1282aa1e5
+pyfiglet==1.0.2
+termcolor==2.5.0
+wheel==0.44.0
